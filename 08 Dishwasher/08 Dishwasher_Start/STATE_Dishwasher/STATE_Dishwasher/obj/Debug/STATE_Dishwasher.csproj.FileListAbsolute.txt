@@ -1,0 +1,11 @@
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\bin\Debug\STATE_Dishwasher.exe.config
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\bin\Debug\STATE_Dishwasher.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\bin\Debug\STATE_Dishwasher.pdb
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.csproj.AssemblyReference.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.csproj.SuggestedBindingRedirects.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.FrmPerilica.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.Properties.Resources.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.csproj.GenerateResource.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\08 Dishwasher\08 Dishwasher_Start\STATE_Dishwasher\STATE_Dishwasher\obj\Debug\STATE_Dishwasher.pdb

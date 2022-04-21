@@ -1,0 +1,11 @@
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\bin\Debug\STATE_RentACar.exe.config
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\bin\Debug\STATE_RentACar.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\bin\Debug\STATE_RentACar.pdb
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.csproj.AssemblyReference.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.csproj.SuggestedBindingRedirects.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.RentACarForma.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.Properties.Resources.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.csproj.GenerateResource.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.csproj.CoreCompileInputs.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\03 RentACar\03 RentACar_Start\STATE_RentACar\STATE_RentACar\obj\Debug\STATE_RentACar.pdb
