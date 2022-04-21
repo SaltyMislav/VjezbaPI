@@ -1,0 +1,11 @@
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe.config
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.pdb
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.AssemblyReference.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.SuggestedBindingRedirects.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.FrmPecnica.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.Properties.Resources.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.GenerateResource.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.CoreCompileInputs.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\09 Pećnica\09 Oven_Start\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.pdb
