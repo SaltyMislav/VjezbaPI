@@ -1,0 +1,11 @@
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\bin\Debug\STATE_Reklamacija.exe.config
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\bin\Debug\STATE_Reklamacija.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\bin\Debug\STATE_Reklamacija.pdb
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.csproj.AssemblyReference.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.Properties.Resources.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.ReklamacijaForm.resources
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.csproj.GenerateResource.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.csproj.CoreCompileInputs.cache
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.exe
+C:\Users\znida\Desktop\foi\pi\Vjezba7\10 Reklamacija\01 Reklamacija_Start\STATE_Reklamacija\STATE_Reklamacija\obj\Debug\STATE_Reklamacija.pdb
